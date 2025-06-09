@@ -16,8 +16,15 @@ FlexiApp is an innovative Android application designed to help users improve the
 - **Secure Authentication**: User registration and login system
 
 ## 📱 Screenshots
+![1749468576188](https://github.com/user-attachments/assets/4b769702-e7f8-4b1c-b451-aa245afe579d)
+![1749468576195](https://github.com/user-attachments/assets/9e954f78-6f4a-4ab1-9956-81afc7a43913)
+![1749468576182](https://github.com/user-attachments/assets/f44a10e1-d022-4b76-a6d8-10e37903f00e)
+![1749468576201](https://github.com/user-attachments/assets/6b79df4d-b450-4ef7-bfb5-e9cb34d3d659)
+![1749468576178](https://github.com/user-attachments/assets/8b806a7a-14cc-4160-96ba-aaf6c1e1fa68)
+![1749468576173](https://github.com/user-attachments/assets/71bb6fb1-082a-416e-92ce-12126a17fce2)
+![1749468576223](https://github.com/user-attachments/assets/db34f629-9680-4749-84d0-70d0daa3b065)
+![1749468576213](https://github.com/user-attachments/assets/61b45149-76a3-4b59-9567-a013cf8be4ea)
 
-*Add your app screenshots here*
 
 ## 🚀 Getting Started
 
