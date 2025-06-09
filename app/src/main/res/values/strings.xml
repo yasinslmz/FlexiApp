@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flexi App</string>
+    <string-array name="levels">
+        <item>B1</item>
+        <item>B2</item>
+        <item>C1</item>
+    </string-array>
+</resources>
